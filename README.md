@@ -17,5 +17,5 @@ This project is a MERN stack-based Tech Quiz application designed to test your k
 - **Testing**: Cypress
 
 ## Links
-git hub repo:
-youtube demo:
+git hub repo: https://github.com/Mar10w/19testquiz
+youtube demo: https://www.youtube.com/watch?v=3YY-twLtigA
